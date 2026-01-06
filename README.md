@@ -3,9 +3,13 @@
 
 > **Not just a translator, but a US Market Context Converter.**
 
-This project is a specialized fork of Andrew Ng's `translation-agent`, designed exclusively for the **Korean Beauty (K-Beauty)** industry entering the US Market (Sephora, Amazon, Ulta). It moves beyond simple language translation to perform **Marketing Transcreation** compliant with 2026 US Beauty Trends and FDA/Cultural regulations.
+This project is a specialized fork of [Andrew Ng's Translation Agent (GitHub)](https://github.com/andrewyng/translation-agent), designed exclusively for the **Korean Beauty (K-Beauty)** industry entering the US Market (Sephora, Amazon, Ulta). It moves beyond simple language translation to perform **Marketing Transcreation** compliant with 2026 US Beauty Trends and FDA/Cultural regulations.
 
 ---
+**Agent Execution Preview:**
+    <p align="center">
+  <img src="./view.png" alt="K-Beauty Agent Execution Result" width="100%">
+</p>
 
 ## 🚀 Key Features
 
