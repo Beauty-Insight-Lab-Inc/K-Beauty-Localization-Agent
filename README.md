@@ -1,4 +1,4 @@
-# K-Beauty Localization Agent 💄🇰🇷🇺🇸
+# K-Beauty Localization Agent(Study)
 **From "Literal Translation" to "Cultural Transcreation"**
 
 > **Not just a translator, but a US Market Context Converter.**
